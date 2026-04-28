@@ -1,5 +1,5 @@
 ## 📈 Stock Market Dashboard
-A responsive stocks React page built with Next.js and Tailwind CSS. This project was developed for a take home assessment for the TensorWave Internship.
+A responsive stocks React page built with Next.js and Tailwind CSS.
 
 ---
 
